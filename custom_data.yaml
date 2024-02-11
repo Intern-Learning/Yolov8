@@ -1,0 +1,12 @@
+path: d:\self\python\ultralitics\ # path to the dataset (relative to 'path')
+train: ../train_data/images/train/  # train images (relative to 'path') 128 images
+val: ../train_data/images/val/  # val images (relative to 'path') 128 images
+
+
+# Classes
+names:
+  0: L1
+  1: L2
+  2: L3
+  3: L4
+  4: L5
